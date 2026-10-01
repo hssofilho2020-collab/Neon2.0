@@ -1,0 +1,5 @@
+flask
+twilio
+g4f
+pytz
+gunicorn
